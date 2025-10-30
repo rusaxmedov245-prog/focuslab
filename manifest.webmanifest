@@ -1,10 +1,11 @@
 {
-  "name": "Focus Lab",
-  "short_name": "FocusLab",
-  "start_url": "./index.html",
+  "name": "Ru_Focus v2",
+  "short_name": "Ru_Focus",
+  "start_url": ".",
+  "scope": ".",
   "display": "standalone",
-  "background_color": "#f6f8fa",
-  "theme_color": "#111111",
+  "background_color": "#121417",
+  "theme_color": "#121417",
   "icons": [
     {
       "src": "icons/icon-192.png",
